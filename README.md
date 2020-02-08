@@ -8,6 +8,7 @@ List of content:
 - [Experimental Products](#experimental-products)
 - [Stats etc](#stats-etc)
 - [Libraries etc](#libraries-etc)
+- [Related Tech Standards](#related-tech-standards)
 
 # Exchange Wallet Support
 - [Bitfinex](https://www.bitfinex.com)
@@ -49,5 +50,9 @@ utilizes Bitcoin Blockchain technology to develop open source, trustless financi
 
 # Built on Elements
 - [CommerceBlock's Ocean & related tools](https://github.com/commerceblock)
+
+# Related Tech Standards
+- [Simplicity](https://github.com/ElementsProject/simplicity) | [Mailing list](https://lists.ozlabs.org/listinfo/simplicity)
+- [SLIP-0077 : Deterministic blinding key derivation for Confidential Transactions](https://github.com/satoshilabs/slips/blob/master/slip-0077.md)
 
 Does your project support Liquid? Fork me and open a pull request to get added!

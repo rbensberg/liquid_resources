@@ -5,6 +5,7 @@ List of content:
 - [Exchange Wallet Support](#exchange-wallet-support)
 - [Merchant Services](#merchant-services)
 - [Commercial Products](#commercial-products)
+- [Tooling](#tooling)
 - [Experimental Products](#experimental-products)
 - [Stats etc](#stats-etc)
 - [Libraries etc](#libraries-etc)
@@ -28,6 +29,12 @@ List of content:
 utilizes Bitcoin Blockchain technology to develop open source, trustless financial services. Technologies we work with and contribute to include Bitcoin Core, Layer 2, Lighting Network, atomic swaps and sidechains.
 - https://github.com/p2pderivatives
 - https://github.com/cryptogarageinc
+
+# Tooling
+- [Electrs](https://github.com/Blockstream/electrs) A block chain index engine and HTTP API written in Rust for Bitcoin and Liquid
+- [Esplora](https://github.com/Blockstream/esplora) Explorer for Bitcoin and Liquid
+- [LiquidIssuer](https://gitlab.com/valerio-vaccaro/liquidissuer) GUI for issuing tokens on Liquid sidechain compatible with Blockstream asset registry
+- [Liquid Swap Toop](https://github.com/Blockstream/liquid-swap) CLI and GUI for atomic swaps on Liquid
 
 # Experimental Products
 - https://github.com/hoganri/liquid.supply

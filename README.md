@@ -33,6 +33,7 @@ utilizes Bitcoin Blockchain technology to develop open source, trustless financi
 # Tooling
 - [Electrs](https://github.com/Blockstream/electrs) A block chain index engine and HTTP API written in Rust for Bitcoin and Liquid
 - [Esplora](https://github.com/Blockstream/esplora) Explorer for Bitcoin and Liquid
+- [NBXplorer](https://github.com/dgarage/NBXplorer) A minimalist UTXO tracker for HD Wallets suporting both Bitcoin and Liquid
 - [LiquidIssuer](https://gitlab.com/valerio-vaccaro/liquidissuer) GUI for issuing tokens on Liquid sidechain compatible with Blockstream asset registry
 - [Liquid Swap Toop](https://github.com/Blockstream/liquid-swap) CLI and GUI for atomic swaps on Liquid
 

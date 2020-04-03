@@ -12,14 +12,16 @@ List of content:
 - [Related Tech Standards](#related-tech-standards)
 
 # Exchange Wallet Support
+- [Bisq](https://bisq.network/)
 - [Bitfinex](https://www.bitfinex.com)
 - [BTSE](https://www.btse.com)
+- [Bull Bitcoin](https://bullbitcoin.com/)
 - [Coinut](https://coinut.com/)
+- [HODLHODL](https://www.hodlhodl.com/)
+- [Ledger](https://www.ledger.com)
+- [Liquiditi](https://www.liquiditi.io.com)
 - [Marketkoin](https://marketkoin.com)
 - [Renrenbit](https://www.renrenbit.com)
-- [Ledger](https://www.ledger.com)
-- [Bisq - In progress](https://github.com/bisq-network/proposals/issues/169) | [2](https://twitter.com/i/web/status/1219680013370310657)
-- [HODLHODL](https://www.hodlhodl.com/)
 
 # Merchant Services
 - [BTCPayserver](https://github.com/btcpayserver/btcpayserver)
@@ -46,6 +48,7 @@ utilizes Bitcoin Blockchain technology to develop open source, trustless financi
 
 # Stats etc
 - https://gnet.me/liquid/
+- https://www.liquid.horse/
 
 # Libraries etc
 - https://github.com/Simplexum/python-elementstx

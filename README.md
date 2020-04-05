@@ -17,6 +17,7 @@ List of content:
 - [BTSE](https://www.btse.com)
 - [Bull Bitcoin](https://bullbitcoin.com/)
 - [Coinut](https://coinut.com/)
+- [CoinOS](https://coinos.io/)
 - [HODLHODL](https://www.hodlhodl.com/)
 - [Ledger](https://www.ledger.com)
 - [Liquiditi](https://www.liquiditi.io.com)
@@ -63,7 +64,7 @@ utilizes Bitcoin Blockchain technology to develop open source, trustless financi
 - [CommerceBlock's Ocean & related tools](https://github.com/commerceblock)
 
 # Related Tech Standards
-- [Simplicity](https://github.com/ElementsProject/simplicity) | [Mailing list](https://lists.ozlabs.org/listinfo/simplicity)
+- [Simplicity](https://github.com/ElementsProject/simplicity) | [Mailing list](https://lists.ozlabs.org/listinfo/simplicity) | [Blog](https://medium.com/blockstream/simplicity-jets-release-803db10fd589) | [Simplicity-enabled Elements] (https://github.com/ElementsProject/elements/tree/simplicity)
 - [SLIP-0077 : Deterministic blinding key derivation for Confidential Transactions](https://github.com/satoshilabs/slips/blob/master/slip-0077.md)
 
 Does your project support Liquid? Fork me and open a pull request to get added!

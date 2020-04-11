@@ -50,6 +50,7 @@ utilizes Bitcoin Blockchain technology to develop open source, trustless financi
 # Stats etc
 - https://gnet.me/liquid/
 - https://www.liquid.horse/
+- https://bitcoin.clarkmoody.com/dashboard/
 
 # Libraries etc
 - https://github.com/Simplexum/python-elementstx

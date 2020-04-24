@@ -55,7 +55,7 @@ utilizes Bitcoin Blockchain technology to develop open source, trustless financi
 # Libraries etc
 - https://github.com/Simplexum/python-elementstx
 - https://github.com/fort-nix/nix-bitcoin
-- LiquidJS (private repo)
+- https://github.com/vulpemventures/secp256k1-zkp
 - https://github.com/afilini/wally-examples
 - https://github.com/vulpemventures/nigiri
 - https://github.com/trezor/blockbook
